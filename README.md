@@ -8,8 +8,8 @@ A SwiftUI iOS app that fetches and displays top headlines with bookmarking, filt
 <img width="129.0" height="279.6" alt="IMG_6943" src="https://github.com/user-attachments/assets/00de9f0f-8b80-4fbe-b84a-2df2481c7e34" />
 <img width="129.0" height="279.6" alt="IMG_6944" src="https://github.com/user-attachments/assets/251dd897-4bdc-4f35-8920-c8ee758cd102" />
 <img width="129.0" height="279.6" alt="IMG_6945" src="https://github.com/user-attachments/assets/76388227-0c03-4c95-83c9-10aa15b14949" />
-<img width="1290" height="2796" alt="IMG_6946" src="https://github.com/user-attachments/assets/7bb284ff-02e8-4220-8914-7cfe727f0c8a" />
-<img width="1290" height="2796" alt="IMG_6947" src="https://github.com/user-attachments/assets/7090a8d8-c932-4022-8bca-26a515044e59" />
+<img width="129.0" height="279.6" alt="IMG_6946" src="https://github.com/user-attachments/assets/7bb284ff-02e8-4220-8914-7cfe727f0c8a" />
+<img width="129.0" height="279.6" alt="IMG_6947" src="https://github.com/user-attachments/assets/7090a8d8-c932-4022-8bca-26a515044e59" />
 
 
 ---
