@@ -1,0 +1,20 @@
+# Xcode / Swift
+.DS_Store
+xcuserdata/
+*.xcuserstate
+*.xcworkspace
+DerivedData/
+build/
+
+# SwiftPM
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+
+# Project Secrets
+Secrets.swift
+
+
+

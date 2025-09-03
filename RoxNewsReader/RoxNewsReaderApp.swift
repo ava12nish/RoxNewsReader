@@ -8,10 +8,15 @@
 import SwiftUI
 
 @main
-struct RoxNewsReaderApp: App {
+struct RoxReaderApp: App {
+    @StateObject private var bookmarks = BookmarkStore()
+    private let ai: AIService = AIResolver.make()
+
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(bookmarks)
+                .environment(\.aiService, ai)
         }
     }
 }
