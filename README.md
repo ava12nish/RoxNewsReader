@@ -63,4 +63,4 @@ Notes:
 - Would also want to implement retry (for the top articles headlines) and offline cache in a real app.
 - Faced a bunch of errors with the AI portion and just when I thought it was good to go realized it would only work on iOS 26+
 - however pretty certain apps made by Apple and use Apple Intelligence work on iOS 18+ but makes sense since it's their products lol
-- Would also want to secure the api keys on a real app.
+- Would also want to secure the api keys on a real app. Left the key here as it doesn't matter much.
