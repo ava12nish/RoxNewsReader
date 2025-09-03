@@ -16,7 +16,7 @@ struct RoxReaderApp: App {
         WindowGroup {
             ContentView()
                 .environmentObject(bookmarks)
-                .environment(\.aiService, ai)
+                .preferredColorScheme(.dark)
         }
     }
 }
