@@ -5,9 +5,9 @@ A SwiftUI iOS app that fetches and displays top headlines with bookmarking, filt
 ---
 
 ## Screenshots
-<img width="1290" height="2796" alt="IMG_6943" src="https://github.com/user-attachments/assets/00de9f0f-8b80-4fbe-b84a-2df2481c7e34" />
-<img width="1290" height="2796" alt="IMG_6944" src="https://github.com/user-attachments/assets/251dd897-4bdc-4f35-8920-c8ee758cd102" />
-<img width="1290" height="2796" alt="IMG_6945" src="https://github.com/user-attachments/assets/76388227-0c03-4c95-83c9-10aa15b14949" />
+<img width="129.0" height="279.6" alt="IMG_6943" src="https://github.com/user-attachments/assets/00de9f0f-8b80-4fbe-b84a-2df2481c7e34" />
+<img width="129.0" height="279.6" alt="IMG_6944" src="https://github.com/user-attachments/assets/251dd897-4bdc-4f35-8920-c8ee758cd102" />
+<img width="129.0" height="279.6" alt="IMG_6945" src="https://github.com/user-attachments/assets/76388227-0c03-4c95-83c9-10aa15b14949" />
 
 
 ---
